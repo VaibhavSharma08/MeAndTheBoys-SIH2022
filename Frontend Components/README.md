@@ -17,6 +17,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-**The actual site is hosted at:
-**
+**The actual site is hosted at:**
 https://potholes.vercel.app/](https://potholes.vercel.app/)
