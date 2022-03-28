@@ -1,6 +1,6 @@
 ## Frontend Setup
 
-In the project directory, you can run:
+Clone this repository and in the project directory, you can run:
 
 ### `npm i`
 
