@@ -1,4 +1,4 @@
-## Available Scripts
+## Frontend Setup
 
 In the project directory, you can run:
 
