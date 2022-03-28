@@ -13,3 +13,7 @@ Now run the following command:
 ### `npm start`
 
 This will start the server in development mode and will console the message after the successful connection with the database.
+
+
+**The actual server is hosted at:**
+https://potholesserver.herokuapp.com/
