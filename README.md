@@ -1,6 +1,6 @@
 # MeAndTheBoys-SIH2022
 
-**The site is hosted at ** : https://potholes.vercel.app/
+**The site is hosted at** : https://potholes.vercel.app/
 
 **Video Submission of working prototype can be accessed at**: https://drive.google.com/drive/folders/1F9634-mPyC2DUd3r_mMP4z87iwsVwRAG?usp=sharing
 
